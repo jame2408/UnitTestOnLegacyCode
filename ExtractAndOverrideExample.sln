@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtractAndOverrideTests", "ExtractAndOverrideTests\ExtractAndOverrideTests.csproj", "{6AC4AE48-A99C-4739-9464-ACAEA7743DDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtractAndOverride", "ExtractAndOverride\ExtractAndOverride.csproj", "{1E4236E2-F317-468C-9210-E2F61D55A51F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AC4AE48-A99C-4739-9464-ACAEA7743DDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AC4AE48-A99C-4739-9464-ACAEA7743DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AC4AE48-A99C-4739-9464-ACAEA7743DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AC4AE48-A99C-4739-9464-ACAEA7743DDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E4236E2-F317-468C-9210-E2F61D55A51F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E4236E2-F317-468C-9210-E2F61D55A51F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E4236E2-F317-468C-9210-E2F61D55A51F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E4236E2-F317-468C-9210-E2F61D55A51F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
